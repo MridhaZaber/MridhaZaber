@@ -8,7 +8,7 @@ I'm a passionate Full-Stack Web Developer focused on building modern, responsive
 - 🌱 Currently learning **Advanced Next.js, TypeScript, and REST API Development**
 - 💻 Interested in **Full-Stack Development**
 - 🎯 Goal: Build scalable, secure, and high-performance web applications
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **mridhazaber@gmail.com**
 
 ---
 
